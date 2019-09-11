@@ -8,3 +8,21 @@
 # #         - double
 # # Boolean - True or False
 # # Strings
+
+# Numbers
+# integers
+# the variable number_of_employees is an integer
+number_of_employees = 10
+print(type(number_of_employees))
+# the money variable below is a float since it has a decimal point
+money = 1000.0
+print(type(money))
+
+# Boolean(True, False)
+is_tall = True
+is_black = False
+print(type(is_tall))
+print(type(is_black))
+
+
+
